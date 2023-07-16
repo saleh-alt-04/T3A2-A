@@ -75,7 +75,6 @@ I have created wireframes for multiple standard screen sizes using industry-stan
 
 ![Screenshot 2023-07-07 183702](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/1ca99ae0-80a4-46ed-a771-0ad198a7af17)
 ![Screenshot 2023-07-07 183748](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/a8605a14-e859-44c8-a167-1b202d922de9)
-![Screenshot 2023-07-07 180116](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/a27db314-0d7b-423e-94d2-40fb3641ae68)
 ![Screenshot 2023-07-07 183203](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/7c8a99e2-a137-451f-9b82-b1e8fcd4435b)
 
 
