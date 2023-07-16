@@ -80,6 +80,6 @@ I have created wireframes for multiple standard screen sizes using industry-stan
 
 
 **Q6)**
-
+trello link https://trello.com/b/TrPu9geu/msa-mowing
 ![Screenshot 2023-07-16 155405](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/263c5f14-a2cc-449a-89b1-fe93fe01cf84)
 
