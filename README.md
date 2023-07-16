@@ -28,6 +28,7 @@ This technology stack enables me to develop a modern, responsive, and feature-ri
 With MSAMOWING, I have the tools and capabilities to operate my mowing business more efficiently and give a better experience for both myself and my customers.
 
 **Q2)**
+
 ![Screenshot 2023-07-06 202857](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/3e820018-46fa-46eb-b10a-06c6088f5710)
 
 
@@ -46,6 +47,7 @@ Todo List: This component allows you to create and manage tasks or to-do lists. 
 Coming soon: Coming Up highlights impending chores, appointments, and deadlines. It gives you an overview of your scheduled activities, ensuring that you stay on track.
 
 **Q3)**
+
 ![Screenshot 2023-07-06 204444](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/981f146a-e855-465a-b1a6-e5de1caf9b21)
 
 The User's Web Browser represents the client-side where users visit the web app. It transmits and receives HTTP requests from the web server.
@@ -68,11 +70,14 @@ As a lawn mowing operator, I want to be able to view a map or directions to the 
 As an administrator, I want to generate reports on income, expenses, and profitability, allowing me to analyse the financial performance of my mowing business and make data-driven decisions.
 
 **Q5)**
+
+I have created wireframes for multiple standard screen sizes using industry-standard software. These wireframes serve as the foundation for the visual design of my dashboard interface. With careful consideration of various screen sizes, I aim to ensure a responsive and seamless user experience across devices. These wireframes provide me with a clear roadmap for implementing my design vision and bringing the dashboard to life.
+
 ![Screenshot 2023-07-07 183702](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/1ca99ae0-80a4-46ed-a771-0ad198a7af17)
 ![Screenshot 2023-07-07 183748](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/a8605a14-e859-44c8-a167-1b202d922de9)
-![Screenshot 2023-07-07 184201](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/e1b2f45c-c01e-46b4-8b24-6c17482995b2)
 ![Screenshot 2023-07-07 180116](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/a27db314-0d7b-423e-94d2-40fb3641ae68)
 ![Screenshot 2023-07-07 183203](https://github.com/saleh-alt-04/T3A2-A/assets/117635352/7c8a99e2-a137-451f-9b82-b1e8fcd4435b)
+
 
 **Q6)**
 
